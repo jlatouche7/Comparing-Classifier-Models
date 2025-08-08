@@ -9,7 +9,7 @@ I trained several different models, simple and finely tuned to see which ones wo
 
 My model did identify a few things in particular that really correlated with if a consumer subscribed to the bank deposit or not:
 	
-	1. Method of Contact - Contacting customers via their cellular was much more effective than contacting customers via their landline/telephone. Going forward, I would recommend targeting customers that you have their cellular information.
+1. Method of Contact - Contacting customers via their cellular was much more effective than contacting customers via their landline/telephone. Going forward, I would recommend targeting customers that you have their cellular information.
 2. Time of year - It seems that there are certain months that people are more likely to subscribe during. March especially should be a time to target. While September also seemed to lead to more success. While March and September were good months, June should be a month to avoid.
 
 Overall I recommend putting a priority on obtaining customers cell phone number rather than home phones and doing flighted marketing campaigns that target the months of June and September in particular. I think implementing those two recommendations will improve the conversion percentage of subscriptions and help optimize your marketing budget.
